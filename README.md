@@ -2,7 +2,7 @@
 𝐇𝐨𝐰 𝐝𝐢𝐝 𝐲𝐨𝐮 𝐞𝐧𝐝 𝐮𝐩 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐰𝐞𝐢𝐫𝐝 𝐜𝐨𝐫𝐧𝐞𝐫 𝐨𝐟 𝐆𝐢𝐭𝐇𝐮𝐛? <br>
 𝑆𝑡𝑖𝑐𝑘 𝑎𝑟𝑜𝑢𝑛𝑑, 𝑏𝑢𝑡 𝑘𝑒𝑒𝑝 𝑖𝑛 𝑚𝑖𝑛𝑑: 𝑃𝑙𝑎𝑛𝑡𝑠 🌱 𝑎𝑟𝑒 <i> 𝑠𝑒𝑛𝑡𝑖𝑒𝑛𝑡 𝑏𝑒𝑖𝑛𝑔𝑠 𝑡𝑜𝑜.</i>
 
-
+![My cool gif](alone-pixel.gif)
 <!--
 **Neh3m/Neh3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
