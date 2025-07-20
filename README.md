@@ -1,6 +1,6 @@
 ## ★彡 Hello Human 🪐 or Not-Human 彡★
-### 𝐻𝑜𝑤 𝑑𝑖𝑑 𝑦𝑜𝑢 𝑒𝑛𝑑 𝑢𝑝 𝑖𝑛 𝑡ℎ𝑖𝑠 𝑤𝑒𝑖𝑟𝑑 𝑐𝑜𝑟𝑛𝑒𝑟 𝑜𝑓 𝐺𝑖𝑡𝐻𝑢𝑏? <br> 
-Stick around, but keep in mind: plants are <i> <b> sentient beings too</b> </i>
+## 𝐻𝑜𝑤 𝑑𝑖𝑑 𝑦𝑜𝑢 𝑒𝑛𝑑 𝑢𝑝 𝑖𝑛 𝑡ℎ𝑖𝑠 𝑤𝑒𝑖𝑟𝑑 𝑐𝑜𝑟𝑛𝑒𝑟 𝑜𝑓 𝐺𝑖𝑡𝐻𝑢𝑏? <br> 
+  Stick around, but keep in mind: Plants 🌱 are <i> <b> sentient beings too.</b> </i>
 
 
 
