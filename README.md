@@ -1,6 +1,8 @@
-## ★彡 Welcome Earthlings 彡★
-### 𝑊ℎ𝑎𝑡 𝑐𝑜𝑢𝑙𝑑 𝑝𝑜𝑠𝑠𝑖𝑏𝑙𝑦 𝑏𝑟𝑖𝑛𝑔 𝑦𝑜𝑢 𝑡𝑜 𝑚𝑦 𝐺𝑖𝑡𝐻𝑢𝑏 𝑜𝑛 𝑡ℎ𝑖𝑠 𝑓𝑖𝑛𝑒 𝑑𝑎𝑦? <br> 
-Whatever it is, Remember Plants are concious,
+## ★彡 Hello Human 🪐 or Not-Human 彡★
+### 𝐻𝑜𝑤 𝑑𝑖𝑑 𝑦𝑜𝑢 𝑒𝑛𝑑 𝑢𝑝 𝑖𝑛 𝑡ℎ𝑖𝑠 𝑤𝑒𝑖𝑟𝑑 𝑐𝑜𝑟𝑛𝑒𝑟 𝑜𝑓 𝐺𝑖𝑡𝐻𝑢𝑏? <br> 
+Stick around, but keep in mind: plants are <i> <b> sentient beings too</b> </i>
+
+
 
 <!--
 **Neh3m/Neh3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
