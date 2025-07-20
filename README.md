@@ -1,6 +1,6 @@
-## Welcome Earthlings
-### What could possibly bring you to my GitHub on this fine day?
-### What ever it is Have a nice day
+## ★彡 Welcome Earthlings 彡★
+### What could possibly bring you to my GitHub on this fine day? <br> 
+Whatever it is ,Have a nice fuckin' day
 
 <!--
 **Neh3m/Neh3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
